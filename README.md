@@ -1,29 +1,30 @@
-# 📱 ANIMO Android App
+# ANIMO Android App
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
 [![Min SDK](https://img.shields.io/badge/Min%20SDK-24-blue.svg)](https://developer.android.com/about/versions/nougat)
 [![Target SDK](https://img.shields.io/badge/Target%20SDK-34-blue.svg)](https://developer.android.com/about/versions/14)
-[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com)
+[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/ryanwtf88/animo-app/releases)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Official Android application for **ANIMO** - Your premium anime streaming platform.
 
-## 🌐 About
+## About
 
 This Android app provides a native mobile experience for [ANIMO](https://animo.qzz.io/), a free anime streaming platform where users can watch anime online in HD quality with both DUB and SUB options.
 
 The app uses a WebView implementation to deliver the full web experience with optimized mobile performance, offline capability, and native Android features.
 
-## ✨ Features
+## Features
 
-- **🎬 HD Anime Streaming** - Watch anime in high-definition quality
-- **🎙️ DUB & SUB Support** - Choose between dubbed and subtitled versions
-- **📱 Native Android Experience** - Optimized WebView with smooth navigation
-- **🔄 Back Navigation** - Native back button support for seamless browsing
-- **🌐 Full Web Features** - Access all features available on [ANIMO](https://animo.qzz.io/)
-- **⚡ Fast Loading** - Optimized settings for quick content delivery
-- **🔒 Secure** - HTTPS-only content with secure browsing
+- **HD Anime Streaming** - Watch anime in high-definition quality
+- **DUB & SUB Support** - Choose between dubbed and subtitled versions
+- **Native Android Experience** - Optimized WebView with smooth navigation
+- **Back Navigation** - Native back button support for seamless browsing
+- **Full Web Features** - Access all features available on [ANIMO](https://animo.qzz.io/)
+- **Fast Loading** - Optimized settings for quick content delivery
+- **Secure** - HTTPS-only content with secure browsing
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Built With
 
@@ -50,11 +51,11 @@ The app uses a WebView implementation to deliver the full web experience with op
 - androidx.constraintlayout:constraintlayout:2.1.4
 ```
 
-## 📦 Installation
+## Installation
 
 ### Download APK
 
-Download the latest release APK: [`animo-release.apk`](./animo-release.apk)
+Download the latest release APK: [**animo-release.apk**](https://github.com/ryanwtf88/animo-app/releases/latest/download/animo-release.apk)
 
 ### Install on Android Device
 
@@ -63,21 +64,7 @@ Download the latest release APK: [`animo-release.apk`](./animo-release.apk)
 3. Open the APK file and follow the installation prompts
 4. Launch ANIMO from your app drawer
 
-### Build from Source
-
-```bash
-# Clone the repository
-git clone <repository-url>
-cd animo-app
-
-# Build the APK
-./gradlew assembleRelease
-
-# The APK will be generated at:
-# app/build/outputs/apk/release/app-release.apk
-```
-
-## 🔧 Development
+## Development
 
 ### Prerequisites
 
@@ -101,7 +88,7 @@ The release build includes:
 - Resource shrinking
 - Signed with release keystore
 
-## 🌟 Website
+## Website
 
 Visit the web version at: **[https://animo.qzz.io/](https://animo.qzz.io/)**
 
@@ -112,18 +99,14 @@ The website offers:
 - User-friendly interface
 - Regular content updates
 
-## 📄 License
+## License
 
-This project is part of the ANIMO platform.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## 📧 Support
+## Support
 
 For support and inquiries, please visit [animo.qzz.io](https://animo.qzz.io/)
 
 ---
 
-**Made with ❤️ for anime fans worldwide**
+Made with ❤️ for anime fans worldwide
